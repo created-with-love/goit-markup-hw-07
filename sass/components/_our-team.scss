@@ -61,3 +61,24 @@
     }
   }
 }
+
+.team-member-position {
+  color: $second-text-color;
+}
+
+.team-member-position,
+.team-member-name {
+  font-size: 16px;
+  line-height: 1.19;
+  text-align: center;
+}
+
+.team-member-name {
+  font-weight: 500;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.team-member-position {
+  margin-bottom: 16px;
+}

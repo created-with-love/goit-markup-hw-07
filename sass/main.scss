@@ -1,18 +1,26 @@
 @import './utils/variables';
 @import './base/normalize';
 @import './base/nullifier';
+
 @import './components/common';
-@import './components/logo';
+@import './components/heading-rulse';
+@import './components/page-header';
 @import './components/header';
-@import './components/footer';
+
 @import './components/hero-section';
 @import './components/hero-button';
+@import './components/backdrop';
+
 @import './components/deep_modal_fields-rules';
 @import './components/modal_checkbox';
-@import './components/heading-rulse';
+
 @import './components/about-us-section';
 @import './components/what-are-we-doing';
 @import './components/our-team';
 @import './components/our-clients';
+
 @import './components/styles-for-portfolio';
+@import './components/portfolio-list';
 @import './components/buttons-filters';
+
+@import './components/footer';
